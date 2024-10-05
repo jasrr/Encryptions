@@ -1,1 +1,1 @@
-XOR encryption based on java
+Encryption based on java
