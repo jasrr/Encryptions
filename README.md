@@ -11,7 +11,7 @@ so we'll start by goin through the basica how major streaming services like Netf
 
 - Content stored unencrypted on servers
 - AES-128 encryption applied before distribution
-   -subpoint
+   - subpoint
 
 ### Client-Side Implementation
 
