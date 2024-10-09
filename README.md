@@ -23,9 +23,9 @@ so we'll start by goin through the basica how major streaming services like Netf
 
 2-DRM Integration:
 
->App communicates with DRM server (e.g., Widevine, PlayReady)
->DRM server generates and transmits license key
->License key securely stored in device's secure enclave
+> App communicates with DRM server (e.g., Widevine, PlayReady)
+> DRM server generates and transmits license key
+> License key securely stored in device's secure enclave
 
 
 3-Playback Mechanism:
