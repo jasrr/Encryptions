@@ -1,18 +1,18 @@
 Encryption based on java
 
-#Streaming Content Encryption and Protection
+# Streaming Content Encryption and Protection
 
 This repository explores the similar or basic encryption and protection mechanisms.
 so we'll start by goin through the basica how major streaming services like Netflix, Amazon Prime Video, and Spotify uses encryption for their contents. The focus is on the technical implementation of content security, DRM (Digital Rights Management), and secure playback.
 
-##Video Streaming (Netflix, Amazon Prime Video)
+## Video Streaming (Netflix, Amazon Prime Video)
 
-###Encryption Process
+### Encryption Process
 
 > Content stored unencrypted on servers
 > AES-128 encryption applied before distribution
 
-###Client-Side Implementation
+### Client-Side Implementation
 
 1-Download Process:
 
