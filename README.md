@@ -1,5 +1,3 @@
-Encryption based on java
-
 # Streaming Content Encryption and Protection
 
 This repository explores the similar or basic encryption and protection mechanisms.
